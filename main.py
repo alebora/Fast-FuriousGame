@@ -11,7 +11,7 @@
 import time
 import sys
 from tkinter import *
-from PIL import ImageTk,Image
+from PIL import ImageTk, Image
 
 #This function is where the questions are being asked to the user. 
 def play():
